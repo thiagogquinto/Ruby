@@ -1,3 +1,5 @@
-- Repolho
-- Alho
-Acabou
+Alho-Done
+Repolho-Done
+Arroz-Done
+Feijão-Done
+Batata-Done
